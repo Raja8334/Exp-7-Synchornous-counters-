@@ -108,7 +108,8 @@ endmodule
 
 ### TIMING DIGRAMS FOR COUNTER  
 ### UPCOUNTER :
-![Screenshot 2023-10-31 121803](https://github.com/Raja8334/Exp-7-Synchornous-counters-/assets/120719634/e844980d-6929-42e8-aa86-c61de36b505d)
+![image](https://github.com/Raja8334/Exp-7-Synchornous-counters-/assets/120719634/2e4fa10d-7bd6-4038-ab43-c6b91a8bf76d)
+
 
 
 ### DOWNCOUNTER :
