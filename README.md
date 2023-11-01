@@ -113,6 +113,7 @@ endmodule
 
 ### DOWNCOUNTER :
 
+![image](https://github.com/Raja8334/Exp-7-Synchornous-counters-/assets/120719634/481e719c-b78b-47e0-b6df-8239f03731a3)
 
 
 
